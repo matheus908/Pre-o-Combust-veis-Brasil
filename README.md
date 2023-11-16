@@ -36,7 +36,7 @@ Dados vieram no formato csv e foi feita a importação através do Databricks, c
 ![image](https://github.com/matheus908/Pre-o-Combust-veis-Brasil/assets/60456455/65430820-4b3a-47b9-93a9-79e0a429a7cd)
 
 ### Limpeza
-A parte de limpeza foi feita através da análise do obejtivo dos dados e de qual seria a melhor forma de criar um dashboard interativo
+A parte de limpeza foi feita através da análise do objetivo dos dados e de qual seria a melhor forma de criar um dashboard interativo
 Das tres tabelas acabamos escolhendo uma FatoCombustiveisBrasilEstado, por causa de ser base com mais informações
 Foi realizado um filtro para excluir todas as linhas que não tinham uma data, com isso apenas trabalhando com dados que tenham uma data indentificada.
 
