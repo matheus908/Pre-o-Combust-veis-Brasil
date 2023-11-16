@@ -5,5 +5,5 @@
 * Power BI
 * Pyspark
 
-<img src = "C:\Users\mathe\OneDrive\Área de Trabalho\Dashboards Portfólio\Imagem pbi preço combustíveis Brasil.PNG" >
+<img src = ""https://app.powerbi.com/view?r=eyJrIjoiN2JkNWEzMTQtYmM5YS00MDExLWI0NDgtMjZlMTE0ZWIyOGI0IiwidCI6IjU4ZmMyZWZkLTk3MTUtNGQ2MC1hZDE1LTdiMWY0YjlhYjFmZSJ9&pageName=ReportSection"" >
 
